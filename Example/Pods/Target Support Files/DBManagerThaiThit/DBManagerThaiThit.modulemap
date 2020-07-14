@@ -1,0 +1,6 @@
+framework module DBManagerThaiThit {
+  umbrella header "DBManagerThaiThit-umbrella.h"
+
+  export *
+  module * { export * }
+}

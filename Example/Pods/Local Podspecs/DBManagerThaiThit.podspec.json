@@ -1,0 +1,22 @@
+{
+  "name": "DBManagerThaiThit",
+  "version": "0.1.0",
+  "summary": "A short description of DBManagerThaiThit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/thailion97/DBManagerThaiThit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "thailion97": "thailion97@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/thailion97/DBManagerThaiThit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DBManagerThaiThit/Classes/**/*"
+}

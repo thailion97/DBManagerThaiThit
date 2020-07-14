@@ -1,0 +1,16 @@
+PODS:
+  - DBManagerThaiThit (0.1.0)
+
+DEPENDENCIES:
+  - DBManagerThaiThit (from `../`)
+
+EXTERNAL SOURCES:
+  DBManagerThaiThit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DBManagerThaiThit: f4cce87b6cd7931ff1a47c2e62078c93b3ec396c
+
+PODFILE CHECKSUM: 3962f28e0cf8c723821e95a01c9bfc7523cf4533
+
+COCOAPODS: 1.9.3
